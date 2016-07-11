@@ -3,7 +3,7 @@
 ##Receive mobile money payments from your WooCommerce site
 
 * Contributors: [@Pat](https://twitter.com/patrickmuhi),  [@Ceddy](https://twitter.com/ceddybi)
-* Donate link: https://vugapay.com/
+* Homepage: https://vugapay.com/
 
 
 
@@ -24,7 +24,7 @@ VugaPay WooCommerce payment plugin can accept all major mobile money networks, M
 * WordPress 3.8 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
-* Some payment gateways require fsockopen support (for IPN access)
+
 
 ### Automatic installation 
 
@@ -37,7 +37,7 @@ In the search field type “VugaPay WooCommerce payment plugin” and click Sear
 The manual installation method involves downloading our payment plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 
-= API setup =
+### API setup 
 1. Select the VugaPay icon from the WordPress menu
 2. Then Enter your VugaPay API credentials (key and Secret) to configure the plugin.
 3. Test your configuration and save
